@@ -8,3 +8,5 @@ INFO:     172.20.0.1:50778 - "GET /api/products HTTP/1.1" 200 OK
 INFO:     172.20.0.1:50794 - "GET /api/products HTTP/1.1" 200 OK
 INFO:     172.20.0.1:50808 - "HEAD / HTTP/1.1" 405 Method Not Allowed
 INFO:     172.20.0.1:50820 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:58308 - "GET /api/products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58310 - "GET /api/products HTTP/1.1" 200 OK
